@@ -1,0 +1,2 @@
+id,N_Days,Drug,Age,Sex,Ascites,Hepatomegaly,Spiders,Edema,Bilirubin,Cholesterol,Albumin,Copper,Alk_Phos,SGOT,Tryglicerides,Platelets,Prothrombin,Stage,Bili_Alb,Age_Stage,Prothrombin_Platelets_Ratio,Age_bin,Stage_grouped,Bilirubin_log,Cholesterol_log,SGOT_log,Bilirubin_bin_1,Bilirubin_bin_2,Prediction
+1,150,0,45,1,0,1,0,0,1.8,200,3.5,80,120,90,150,250000,10,2,0.5142857142857143,90,4e-05,0,2,0.5877866649021191,5.298317366548036,4.499809670330265,0,1,D
