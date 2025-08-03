@@ -13,7 +13,6 @@ It includes data preprocessing, exploratory data analysis (EDA), model training 
 - Python 3.10+
 - pandas, sklearn, seaborn, matplotlib, streamlit
 
-## How to Run
-```bash
-streamlit run app.py
-<img width="543" height="791" alt="Screenshot 2025-07-27 192401" src="https://github.com/user-attachments/assets/5e319c1b-c9d0-4e57-b366-a8a75fd46d62" />
+
+<img width="459" height="790" alt="Screenshot 2025-07-27 204435" src="https://github.com/user-attachments/assets/9d6a1a29-2e6e-475c-942e-439567c83c60" />
+<img width="543" height="791" alt="Screenshot 2025-07-27 192401" src="https://github.com/user-attachments/assets/0aff88ce-2e61-4911-b6b1-b97e7c1da2fe" />
